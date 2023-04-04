@@ -1,5 +1,11 @@
 # go-sample
 CLI application with go programming language
 
-` go mod download github.com/spf13/cobra`
-` go mod download github.com/spf13/viper`
+``` cmd
+# open visual studio code and press (ctrl+shift+p) and run follwoing command:
+GO: Install/Update Tools
+# select all and hit OK
+ go mod tidy
+ # or 
+go get <package-name>
+```
